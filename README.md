@@ -24,7 +24,7 @@
 
 ### Here is an example of a table.
 
-*My first 3 semesters at STCC (Major related courses only).
+*My first 3 semesters at STCC (Major related courses only).*
 
 |Semester 1   |Semester 2   |Semester 3   |
 |:---         |   :----:    |        ---: |
